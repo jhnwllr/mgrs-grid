@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Coordinate Systems Analysis Team (SNAC) of the National Geospatial-Intelligence Agency (NGA)</origin>
+				<pubdate>2009</pubdate>
+				<title Sync="TRUE">MGRS_100kmSQ_ID_46E</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>MGRS 100km Square Identifier shapefiles</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>NGA St. Louis</pubplace>
+					<publish>SNAC</publish>
+				</pubinfo>
+				<onlink Sync="TRUE">\\Infstl02\Office3\SN\CSAT\GIS_Files\MGRS\100kmSQ_ID\100kmSQ_ID_Set4\Zone46\s\MGRS_100kmSQ_ID_46E.shp</onlink>
+				<ftname Sync="TRUE">MGRS_100kmSQ_ID_46E</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This is a MGRS 100km Square Identifier polygon shapefile.  The polygons are defined by UTM zone and MGRS band letters into mostly 6ºx8º polygons, with subdivisions into MGRS 100km Square Identifiers.  There are no classification restrictions on this information.  This information was created by the National Geospatial-Intelligence Agency (NGA) Coordinate Systems Analysis Team (SNAC).  This information was created in 2009.  Acronyms used in the attribute table and file name include: CM = central meridian, GZD = grid zone designator, n = northern hemisphere, s = southern hemisphere, LAT = latitude, LONG = longitude.</abstract>
+			<purpose>The purpose of this file is for GIS use, reference graphics, and instruction.  It is intended to be projected using Transverse Mercator projection into its appropriate UTM zone and hemisphere. </purpose>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2009</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">89.176260</westbc>
+				<eastbc Sync="TRUE">96.823740</eastbc>
+				<northbc Sync="TRUE">-55.963555</northbc>
+				<southbc Sync="TRUE">-64.030986</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">312928.560796</leftbc>
+				<rightbc Sync="TRUE">687071.446684</rightbc>
+				<topbc Sync="TRUE">3793920.414974</topbc>
+				<bottombc Sync="TRUE">2899532.951455</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115</themekt>
+				<themekey>Location</themekey>
+				<themekey>Polygon</themekey>
+				<themekey>Grid</themekey>
+				<themekey>Reference System</themekey>
+				<themekey>Grid System</themekey>
+				<themekey>Grid Reference System</themekey>
+				<themekey>UTM</themekey>
+				<themekey>MGRS</themekey>
+				<themekey>6x8</themekey>
+				<themekey>6ºx8º</themekey>
+				<themekey>GZD</themekey>
+				<themekey>grid zone designator</themekey>
+				<themekey>100km Square Identifier</themekey>
+			</theme>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>There are no use constraints on this information.  There are no classification restrictions on this information.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Coordinate Systems Analysis Team (SNAC) of National Geospatial-Intelligence Agency</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>SNAC, Mail Stop L-41</address>
+					<address>NGA St. Louis</address>
+					<address>3838 Vogel Rd.</address>
+					<city>Arnold</city>
+					<state>MO</state>
+					<postal>63010-6238</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>314.676.9124</cntvoice>
+				<cntfax>314.676.3113</cntfax>
+				<cntemail>brian.n.akers@nga.mil</cntemail>
+				<cntemail>kurt.j.schulz@nga.mil</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>MGRS_100kmSQ_ID_46E</browsen>
+			<browsed>Shapefile of the 100km Square Identifiers used in MGRS for zone 46, band E.</browsed>
+			<browset>Shapefile</browset>
+		</browse>
+		<secinfo>
+			<secsys>Unclassified</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>no restrictions</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">E:\ReferenceSystems\UGS\MGRS\GZD\ByZone_Hemi\Zone01\n\GZD_01n.shp.xml</srcused>
+				<date Sync="TRUE">20091013</date>
+				<time Sync="TRUE">14474900</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">E:\ReferenceSystems\UGS\MGRS\GZD\ByGZD\GZD_01\01_n\N\GZD_01n_N.shp.xml</srcused>
+				<date Sync="TRUE">20091013</date>
+				<time Sync="TRUE">15012800</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">E:\ReferenceSystems\UGS\MGRS\GZD\ByGZD\GZD_01\01_n\P\GZD_01n_P.shp.xml</srcused>
+				<date Sync="TRUE">20091013</date>
+				<time Sync="TRUE">16491000</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">E:\ReferenceSystems\UGS\MGRS\GZD\ByGZD\01\C\01C.shp.xml</srcused>
+				<date Sync="TRUE">20091201</date>
+				<time Sync="TRUE">13320200</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">E:\ReferenceSystems\UGS\MGRS\100km_SQ_ID\Zone01\N\MGRS_100kmSQ_ID_01n.shp.xml</srcused>
+				<date Sync="TRUE">20091201</date>
+				<time Sync="TRUE">13522500</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xmlF2.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">10115500</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1BB.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">12534100</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1C6.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13000900</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1D0.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13050400</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1DA.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13114200</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1E4.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13155300</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1EF.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13243200</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml1FA.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13295800</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml204.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13394700</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml20E.tmp</srcused>
+				<date Sync="TRUE">20100104</date>
+				<time Sync="TRUE">13444500</time>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\rotherjr\LOCALS~1\Temp\xml219.tmp</srcused><date Sync="TRUE">20100104</date><time Sync="TRUE">14003200</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="MGRS_100kmSQ_ID_46E">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">38</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="MGRS_100kmSQ_ID_46E">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<efeacnt Sync="TRUE">38</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">-46</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">93.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">10000000.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+				<projcsn Sync="TRUE">WGS_1984_UTM_Zone_46S</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="MGRS_100kmSQ_ID_46E">
+			<enttyp>
+				<enttypl Sync="TRUE">MGRS_100kmSQ_ID_46E</enttypl>
+				<enttypc Sync="TRUE">38</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">GZD</attrlabl>
+				<attalias Sync="TRUE">GZD</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">100kmSQ_ID</attrlabl>
+				<attalias Sync="TRUE">100kmSQ_ID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">5</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">MGRS</attrlabl>
+				<attalias Sync="TRUE">MGRS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EASTING</attrlabl>
+				<attalias Sync="TRUE">EASTING</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NORTHING</attrlabl>
+				<attalias Sync="TRUE">NORTHING</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">15</attwidth>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Coordinate Systems Analysis Team (SNAC) of the National Geospatial Intelligence Agency (NGA)</cntorg>
+				</cntorgp>
+				<cntvoice>314.676.9124</cntvoice>
+				<cntfax>314.676.3113</cntfax>
+				<cntemail>brian.n.akers@nga.mil</cntemail>
+				<cntemail>kurt.j.schulz@nga.mil</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+		<distliab>none</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.161</transize>
+					<dssize Sync="TRUE">0.161</dssize>
+				</digtinfo>
+			</digform>
+			<fees>none</fees>
+			<ordering>web download, email contact, phone contact</ordering>
+		</stdorder>
+		<custom>contact shapefile producer</custom>
+		<techpreq>ESRI</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100615</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>SNAC</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>SNAC, Mail Stop L-41</address>
+					<address>NGA St. Louis</address>
+					<address>3838 Vogel Rd.</address>
+					<city>Arnold</city>
+					<state>MO</state>
+					<postal>63010-6238</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>314.676.9124</cntvoice>
+				<cntfax>314.676.3113</cntfax>
+				<cntemail>brian.n.akers@nga.mil</cntemail>
+				<cntemail>kurt.j.schulz@nga.mil</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metscs>unclassified</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>no restrictions</metshd>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">89.17626</westBL>
+			<northBL Sync="TRUE">-55.963555</northBL>
+			<southBL Sync="TRUE">-64.030986</southBL>
+			<eastBL Sync="TRUE">96.82374</eastBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">MGRS_100kmSQ_ID_46E</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">312928.560796</westBL>
+					<northBL Sync="TRUE">3793920.414974</northBL>
+					<southBL Sync="TRUE">2899532.951455</southBL>
+					<eastBL Sync="TRUE">687071.446684</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+					<linkage Sync="TRUE">file://\\Infstl02\Office3\SN\CSAT\GIS_Files\MGRS\100kmSQ_ID\100kmSQ_ID_Set4\Zone46\s\MGRS_100kmSQ_ID_46E.shp</linkage>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.161</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<CreaDate>20100104</CreaDate>
+		<ModDate>20100615</ModDate>
+		<ModTime>13073000</ModTime>
+		<SyncDate>20100615</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>13071800</SyncTime>
+		<CreaTime>14003200</CreaTime>
+		<MetaID>{54DBFF93-C220-40DC-BABD-5F00AA1FF8DC}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20100615</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">WGS_1984_UTM_Zone_46S</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="MGRS_100kmSQ_ID_46E"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">38</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+</metadata>
